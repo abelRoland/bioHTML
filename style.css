@@ -24,3 +24,12 @@ section {
     background: #888;
     padding: 20px;
 }
+
+article {
+    width: 70%;
+    height: 300px;
+    font-size: 1.5em;
+    float: left;
+    background: #666;
+    padding: 20px;
+}
