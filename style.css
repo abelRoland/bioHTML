@@ -13,4 +13,14 @@ footer {
     font-size: 1em;;
     background: #aaa;
     padding: 20px;
+    clear: both;
+}
+
+section {
+    width: 70%;
+    height: 300px;
+    font-size: 1.5em;
+    float: left;
+    background: #888;
+    padding: 20px;
 }
