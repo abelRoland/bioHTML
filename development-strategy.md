@@ -57,7 +57,7 @@ __As a site visitor, I want to know what the web page is called__
 
 __As a site visitor, I want to read an introduction to this web page__
 
-> assigned to __
+> assigned to Abel
 
 ### Repos & Branches
 
@@ -136,7 +136,7 @@ __As a perfectionist, I want everything perfect :)__
 ## 6. User Story checkup
 
 1. [X] User Story 1
-2. [ ] User Story 2 
+2. [X] User Story 2 
 3. [ ] User Story 3
 4. [ ] User Story 4
 5. [ ] User Story 5
