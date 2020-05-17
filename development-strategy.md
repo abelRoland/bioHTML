@@ -37,8 +37,8 @@ __As a site visitor, I want to know what the web page is called__
 
 ### Repos & Branches
 
-1. This user story was developed on __'s fork, on a brach called `1-title`.
-1. It was merged to `master` on __'s fork when the feature was complete
+1. This user story was developed on Abel's fork, on a brach called `1-title`.
+1. It was merged to `master` on Abel's fork when the feature was complete
 1. A pull request was sent to the main group repo
 
 ### HTML
@@ -61,8 +61,8 @@ __As a site visitor, I want to read an introduction to this web page__
 
 ### Repos & Branches
 
-1. This user story was developed on __'s fork, on a brach called `2-introduction`.
-1. It was merged to `master` on __'s fork when the feature was complete
+1. This user story was developed on Abel's fork, on a brach called `2-introduction`.
+1. It was merged to `master` on Abel's fork when the feature was complete
 1. A pull request was sent to the main group repo
 
 ### HTML
@@ -80,12 +80,12 @@ Styling for the new element
 
 __As a site visitor, I want to learn about something cool__
 
-> assigned to __
+> assigned to Abel
 
 ### Repos & Branches
 
-1. This user story was developed on __'s fork, on a brach called `3-main-text`.
-1. It was merged to `master` on __'s fork when the feature was complete
+1. This user story was developed on Abel's fork, on a brach called `3-main-text`.
+1. It was merged to `master` on Abel's fork when the feature was complete
 1. A pull request was sent to the main group repo
 
 ### HTML
@@ -103,12 +103,12 @@ Styling for the new element
 
 __As a site visitor, I want to know where I can learn more__
 
-> assigned to __
+> assigned to Abel
 
 ### Repos & Branches
 
-1. This user story was developed on __'s fork, on a brach called `4-references`.
-1. It was merged to `master` on __'s fork when the feature was complete
+1. This user story was developed on Abel's fork, on a brach called `4-references`.
+1. It was merged to `master` on Abel's fork when the feature was complete
 1. A pull request was sent to the main group repo
 
 ### HTML
