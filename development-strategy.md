@@ -33,7 +33,7 @@ __A User can see my initial repository and live demo__
 
 __As a site visitor, I want to know what the web page is called__
 
-> assigned to __
+> assigned to Abel
 
 ### Repos & Branches
 
@@ -131,3 +131,12 @@ __As a perfectionist, I want everything perfect :)__
   - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
   - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - Validate code to check for any last mistakes
+
+
+## 6. User Story checkup
+
+1. [X] User Story 1
+2. [ ] User Story 2 
+3. [ ] User Story 3
+4. [ ] User Story 4
+5. [ ] User Story 5
