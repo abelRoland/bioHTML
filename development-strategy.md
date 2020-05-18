@@ -137,6 +137,6 @@ __As a perfectionist, I want everything perfect :)__
 
 1. [X] User Story 1
 2. [X] User Story 2 
-3. [ ] User Story 3
-4. [ ] User Story 4
+3. [X] User Story 3
+4. [X] User Story 4
 5. [ ] User Story 5
