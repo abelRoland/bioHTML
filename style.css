@@ -36,7 +36,6 @@ footer > a:visited {
     color: #aaa;
 }
 
-
 section {
     width: 70%;
     height: 22vw;
@@ -70,16 +69,19 @@ aside {
     font-size: 1em;
     float: right;
     background: #be6a15;
-    padding: 20px;
-    display: flex;
+    padding: 20px; 
 }
 
-aside ul {
+aside > h3 {
+    text-align: center;
+}
+
+ul {
     font-size: 1.25em;
     text-align: right;
 }
 
-aside li {
+li {
     margin-top: 2em;
     text-align: right;
     list-style-type: none;

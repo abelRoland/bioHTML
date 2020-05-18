@@ -139,4 +139,4 @@ __As a perfectionist, I want everything perfect :)__
 2. [X] User Story 2 
 3. [X] User Story 3
 4. [X] User Story 4
-5. [ ] User Story 5
+5. [X] User Story 5
