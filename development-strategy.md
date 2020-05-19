@@ -132,11 +132,15 @@ __As a perfectionist, I want everything perfect :)__
   - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
 - Validate code to check for any last mistakes
 
+## 6. Adding Nav e Grid
 
-## 6. User Story checkup
+- After the job done, I try to add the nav tag and adapt the page to the grid layout
+
+## 7. User Story checkup
 
 1. [X] User Story 1
 2. [X] User Story 2 
 3. [X] User Story 3
 4. [X] User Story 4
 5. [X] User Story 5
+6. [X] User Story 6
